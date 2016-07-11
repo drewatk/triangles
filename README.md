@@ -7,3 +7,7 @@
 ![Pebble Time](/screenshots/pebble_screenshot_2016-06-28_18-52-01.png)
 
 Open Sourced under MIT License
+
+### Credits
+* Image by Vecree.com (CC BY-SA 2.0)
+* Robotech Font by Gustavo Paz (CC BY-SA 4.0)
