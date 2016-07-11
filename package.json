@@ -1,0 +1,45 @@
+{
+  "name": "triangles",
+  "author": "drewatk",
+  "version": "1.0.0",
+  "keywords": ["pebble-app"],
+  "private": true,
+  "dependencies": {},
+  "pebble": {
+    "displayName": "Triangles",
+    "uuid": "f6902ac2-633a-4496-9151-5fcf95151bfe",
+    "sdkVersion": "3",
+    "enableMultiJS": true,
+    "targetPlatforms": [
+      "basalt",
+      "chalk"
+    ],
+    "watchapp": {
+      "watchface": true 
+    },
+    "messageKeys": [
+      "dummy"
+    ],
+    "resources": {
+      "media": [
+        {
+          "type": "font",
+          "name": "FONT_ROBOTECH_44",
+          "file": "fonts/ROBOTECH.ttf"
+        },
+        {
+          "type": "bitmap",
+          "name": "IMAGE_BACKGROUND_RECT",
+          "file": "images/background-rect.png",
+          "targetPlatforms": [ "basalt" ]
+        },
+        {
+          "type": "bitmap",
+          "name": "IMAGE_BACKGROUND_ROUND",
+          "file": "images/background-round.png",
+          "targetPlatforms": [ "chalk" ]
+        }
+      ]
+    }
+  }
+}
