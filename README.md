@@ -6,7 +6,7 @@
 ![Pebble Time](/screenshots/pebble_screenshot_2016-06-28_18-51-53.png)
 ![Pebble Time](/screenshots/pebble_screenshot_2016-06-28_18-52-01.png)
 
-Open Sourced under MIT License
+Open Sourced under GPLv3 License
 
 ### Credits
 * Image by Vecree.com (CC BY-SA 2.0)
